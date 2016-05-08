@@ -1,0 +1,27 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/basicController.cs">
+    <Files>
+      <File FileName="Assets/Webcam.cs" Line="22" Column="31" />
+      <File FileName="Assets/MonolithicEnemyController.cs" Line="1" Column="1" />
+      <File FileName="Assets/BoidSpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets/datasource.cs" Line="18" Column="1" />
+      <File FileName="Assets/getData.cs" Line="8" Column="43" />
+      <File FileName="Assets/serialRead.cs" Line="1" Column="1" />
+      <File FileName="Assets/basicController.cs" Line="20" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="basicController.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
